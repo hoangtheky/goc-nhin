@@ -1,21 +1,21 @@
 ## Bí kíp đọc sách cho người siêu bận
-```
-Bài này dành cho những người bận rộn (ví dụ chỉ có ít hơn 15 phút dành cho đọc sách mỗi ngày) không có đủ thời gian để đọc một cuốn sách dạy cách đọc sách. Nếu bạn đã rất thỏa mãn với cách đọc sách của mình rồi thì có lẽ cũng không cần đọc bài này.
-```
+
+Bài này dành cho những người bận rộn (ví dụ chỉ có ít hơn 15 phút dành cho đọc sách mỗi ngày)
+không có đủ thời gian để đọc một cuốn sách dạy cách đọc sách. Nếu bạn đã rất thỏa mãn với cách đọc sách của mình rồi thì có lẽ cũng không cần đọc bài này.
 
 #### Ghi chú quan trọng:
 Bài này có khả năng là hay vì có nhiều người share, nhưng không phải là bài hướng dẫn đọc nhanh (mặc dù có sách hướng dẫn bạn tăng tốc), mà là về đọc thông minh, hay nói cách khác là đọc có hệ thống và bàn bản.
 #### Ghi chú khác:
 Bài này có tựa đề gốc là “Bí kíp đọc sách cho kẻ thế mà đần” đăng lần đầu trên Facebook khoảng gần 3 năm trước. Nay tôi sửa lại chút đỉnh nhưng vẫn giữ lại phong cách “thế mà đần” (For Dummies) để hướng tới sự đơn giản và vui vẻ.
 
-1. “Tớ vừa đọc XONG một cuốn sách”
+#### 1. “Tớ vừa đọc XONG một cuốn sách”
 Câu này có thể mang nhiều hàm nghĩa khác nhau. Có thể là “Tôi vừa lướt qua cái mục lục chi tiết của cuốn sách”, hoặc “Tôi vừa đọc từ đầu đến cuối cuốn sách”, hoặc “Tôi vừa đọc lần thứ 10 cuốn sách này”. Tất cả đều là “đọc xong một cuốn sách”. Chẳng có gì sai khi nói câu đó cả.
 Điều tôi muốn nói ở đây là có nhiều mức độ đọc sách khác nhau. Với mỗi cuốn sách, bạn định đọc nó ở mức độ nào?
 
 Khoảng hơn tám năm trước tôi đọc “Khởi thuật” của Guy Kawasaki, thấy sách viết hay và viết khéo nên làm một lèo chừng hơn 2 tiếng là xong hết, chả bỏ chữ nào. Năm năm trước tôi đọc lại khi cùng anh em thành lập một tổ chức phi lợi nhuận, vẫn thấy mới quá. Ba năm trước, khi một dự án thất bại, tôi lại vác sách ra đọc, vẫn thấy nhiều cái lúc bấy giờ mới vỡ ra được. Vừa mới tuần trước thôi, tôi mang ra đọc lại và phải thốt lên với anh bạn khốt “Cái quy tắc 10/20/30 cực kì vĩ đại, càng ngày càng thấy nó vĩ đại!”. Vậy là tôi “đọc” cuốn Khởi thuật này mất tám năm.
 Tôi hỏi thật, bạn định đọc một cuốn sách trong bao lâu: Hai tiếng hay tám năm?
 
-2. Có nhất thiết phải đọc sách phù hợp với trình độ và lứa tuổi?
+#### 2. Có nhất thiết phải đọc sách phù hợp với trình độ và lứa tuổi?
 
 Con gái học lớp Hai của tôi bắt đầu đọc “Đất rừng phương Nam” từ tuần trước, trong khi bố nó ngày xưa đến cấp 3 đọc không hết thì bỏ dở. Cô bé hăng say đọc Đoàn Giỏi, Phạm Hổ hay Vũ Tú Nam ngang như say mê Doreamon như nhiều đứa trẻ cùng tuổi khác. Tôi không ép gì cô nàng đọc sách này sách kia, cũng không vội lo lắng “bé tí chưa đọc được” đến mức phải cấm đoán hay ngăn cản. Sách do nàng tự chọn khi ra hiệu sách, tự đặt lên giá của mình, tự biết lúc nào thì đọc, và tự lôi ra đọc khi thấy hứng.
 
@@ -25,7 +25,7 @@ Nếu bạn chưa học triết học bao giờ, liệu có nên từ chối nga
 
 Cô nàng của tôi đọc xong “Đất rừng phương Nam” rồi, nàng mới thông báo với bố là cô đang rất háo hức với “Những tấm lòng cao cả”. Cũng tốt thôi, bố nó chưa bao giờ đọc hết cuốn đó cả, hehe.
 
-3. Đọc sách để làm gì ?
+#### 3. Đọc sách để làm gì ?
 
 Tôi không cổ súy bạn suốt ngày vùi đầu vào thế giới sách vở theo kiểu “Nếu không đọc thì chết mất” giống như mấy câu hát trong bài “Chuyện 5 người” của nhạc sĩ Trần Tiến. Tôi cũng không có ý định phê những người không đọc sách là “thất phu”, “lười nhác” hay “bọn không có tâm hồn”. Tuy vậy, tôi thấy mình cũng không phải là người dễ dãi với ý tưởng phản đối việc đọc sách chỉ vì “Internet suốt ngày rồi, thiếu gì thông tin”, hay “không có thời gian”, hay “đọc sách chán lắm”. Đọc sách có cái lợi hại và có cái thú vị riêng của nó.
 
@@ -35,7 +35,7 @@ Bạn có thể chọn cho mình một cách tiếp cận đọc sách cho phù 
 
 Phần sau đây tôi chỉ đề cập đến việc đọc sách để lấy thông tin và kiến thức, phục vụ công việc và học tập. Từ phần này trở về sau, “sách” có nghĩa là “non-fiction book”. Các “doanh nhân” hay “nhân viên” chưa ham đọc và lúc nào cũng thấy thiếu thời giờ vì bận việc, các “sinh viên” lúc nào cũng thấy “tán gái” hoặc “đàn đúm” vui hơn đọc sách nhưng vẫn muốn đọc đôi chút để có thông tin cần thiết phục vụ công việc, có thể đọc tiếp phần dưới đây. Tất nhiên, bài này viết về đọc sách, bao gồm ebook, còn đọc bài báo khoa học, đọc thông tin trên mạng xã hội, hoặc cách đọc sách văn chương để thưởng thức sẽ là chủ đề cho các bài viết khác.
 
-4. Đọc sách như thế nào?
+#### 4. Đọc sách như thế nào?
 Đọc sách cũng phải luyện tập. Cả về cách đọc và thói quen đọc. Thật đấy! Tôi không đùa đâu.
 
 Có người vặn: Cứ tưởng học đọc từ Tiểu học là xong chứ, sao lại còn phải học đọc nữa? Như tôi quan sát thấy thì trong hai ba chục năm trở lại đây việc dạy đọc ở trường học nói chung chỉ giúp ta đọc với trình độ của một … học sinh Tiểu học. Cho tới tận hết đại học, vẫn cái trình độ ấy là chủ yếu. Vì chả mấy khi ta luyện tập gì thêm cả. Biết đọc rồi thì cứ thế đọc thôi.
