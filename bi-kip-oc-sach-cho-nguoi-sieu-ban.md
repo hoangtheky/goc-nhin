@@ -49,11 +49,10 @@ Như tôi quan sát trên cộng đồng đọc sách Goodreads.com thì những
 Câu hỏi quan trọng cần trả lời nếu bạn vẫn còn ham muốn đọc sách là: Làm thế nào để đọc cho hiệu quả, đọc thế nào cho nhanh, đọc thế nào cho có ích?
 
 Ta sẽ bẻ nhỏ thành hai vấn đề nhỏ khác: Đọc năng suất hơn, và đọc chất lượng hơn.
-
-Câu hỏi một: Làm sao để đọc được nhiều?
+#### Câu hỏi một: Làm sao để đọc được nhiều?
 Tôi có có bảy gợi ý để bạn vận dụng cho việc đọc sách của mình như dưới đây.
 
-Một: Sách phải sẵn.
+#### Một: Sách phải sẵn.
 
 Nếu bạn giàu thì chả nói, bạn có thể mua cả một thư viện về nhà. Nếu bạn nghèo như cánh startup tôi đây, vẫn có vài cách.
 
@@ -67,7 +66,7 @@ Tiết kiệm hơn nữa là đến thư viện nhà nước hoặc trường h�
 
 Việc trong nhà sẵn tủ sách, ba lô sẵn vài cuốn, Kindle, iPad sẵn ebook là cực kì quan trọng. Nó giống như tạo dựng cơ sở hạ tầng vậy. Có nó rồi thì xe pháo mới băng băng được. Không sách, đọc sách kiểu gì?
 
-Hai: Đọc sách ở mọi nơi
+#### Hai: Đọc sách ở mọi nơi
 
 Trước khi đi ngủ, đọc 20 phút, bét cũng được chục trang.
 
@@ -81,11 +80,12 @@ Lúc nghỉ trưa, đọc chừng 15 phút sau bữa trưa trước lúc ngủ t
 
 Tôi đang tính với người đọc với tốc độ đọc hơi “rùa bò”. Chứ với người đọc khá, với sách không quá khó thì có thể đọc được 1000–2000 từ/1 phút, tương đương 30 phút khoảng dăm bảy chục trang. Đến đây bạn đừng vội cho là tôi bốc phét về tốc độ đọc, và tự hỏi “đọc nhanh thế thì nhớ được gì, mình đọc từng chữ còn chẳng ăn ai?”. Hãy kiên nhẫn chút đi, bạn thân mến!
 
-Ba: Đừng dừng lại, cần phải đọc như ăn cướp
+#### Ba: Đừng dừng lại, cần phải đọc như ăn cướp
 
 Được rồi, tôi sẽ nói về chuyện đọc nhanh!
-
+```
 Có mấy thói quen xấu mà nhiều người mắc khi đọc sách (PS. Ngày xưa tôi cũng mắc phần lớn các lỗi này):
+```
 
 Sai lầm thứ nhất: Đọc từ nọ sang từ kia, dòng nọ nối dòng kia. Đây là một thói quen cực xấu và phản tự nhiên. Mắt bạn được sinh ra là để “chụp lại một trang sách”, hoặc chí ít là chụp lại một khối chữ, chứ không phải từng chữ cái một. Đọc từng chữ một khiến mắt vừa mỏi lại vừa khiến bạn đọc chậm đi trông thấy. Hãy cứ để mắt mình lướt nhanh qua các con chữ, rồi xa nữa là chụp theo khối. Nhưng bạn tự hỏi: Đọc thế làm sao nhớ được gì? Cứ để việc ghi nhớ sau, sẽ có cách giải quyết!
 
@@ -93,19 +93,18 @@ Sai lầm thứ nhì: Cố hiểu cho thật kĩ rồi mới đọc tiếp. Đ�
 
 Sai lầm thứ ba: Cứ phải là tuần tự từ đầu đến cuối mới là đọc đúng cách. Thực ra các cuốn sách dích dắc hơn chúng ta tưởng. Mỗi chương thường có độ độc lập nhất định. Nếu mỗi ngày chỉ đọc một chương sách, có thể ta đọc chương 2 có vấn đề ưa thích trước khi đọc chương 1. Chẳng ảnh hưởng đến việc thu nhận thông tin lắm đâu! Thỉnh thoảng có thể để mình tự do một chút. Các mảnh ghép sẽ tạo thành bức tranh lớn đầy đủ ở phút cuối cùng. Đôi khi bạn có thể chỉ cần phải đọc một hai chương sách là cùng, vì phần còn lại có thể bạn đã đọc ở đâu đó rồi, hoặc đôi khi bạn thậm chí chỉ cần thu thông tin trong một hai chương là đủ.
 
-Bốn: Đọc như trai tân tán gái
-
+#### Bốn: Đọc như trai tân tán gái
 Một anh ku tán gái sẽ phải tìm hiểu xem gái này đặc điểm thế nào, thích cái gì, gia đình thế nào, bạn bè ra sao, motif ăn ở thế nào thì khi tán cô gái mới dễ đổ. Nhiều người cầm sách xong là bộp phát vào chương Một, rồi cứ thế lật hết trang nọ đến trang khác. Như thế chưa chắc đã là cách hay. Một cuốn sách sẽ được tác giả cấu trúc theo một logic nhất định, với những cách triển khai có phong cách nhất định. Khi ta tìm được logic ấy là lúc sẽ biết được “xử lí” cuốn này như thế nào. Cho nên hãy học anh ku chuyện tán gái để áp dụng vào việc đọc.
 
 Hãy nhìn vào cấu trúc cuốn sách (lời nói đầu, lời cuối, cách phân chương, mục lục, index, đồ họa) để nắm sơ bộ. Tìm hiểu về tác giả để xem phong cách, bối cảnh, độ “nặng đô” của cuốn sách mình sắp đọc, như thế chàng trai sắp đến gặp đối tượng để tán tỉnh vậy!
 
-Năm: Đọc sách như thể chụp X-Quang
+#### Năm: Đọc sách như thể chụp X-Quang
 
 Sau khi nắm được sơ sơ cấu trúc, hãy tiến hành lướt thật nhanh các phần xương sống của cuốn sách: Tựa đề, Mục lục, Mục lục chi tiết, Index, Nói đầu/Tóm lược. Lướt qua những cái này, bạn đã túm được 20–30% thông tin chính của cuốn sách rồi. Thật đấy. Đặt ra vài câu hỏi đáng quan tâm, đánh dấu vài từ khóa cần tìm hiểu (ghi trong Mục lục hoặc Index) rồi lật nhanh đến phần chưa hiểu, ta sẽ kiếm thêm chút thông tin nữa. Rồi lướt nhanh các trang sách như thể quét một chiếc máy chụp x-quang lên cuốn sách. Làm thế này, chỉ chưa đầy nửa tiếng, đến nửa thông tin chính thức của cuốn sách đã hiển hiện trong đầu bạn rồi. Sau đó, bạn có thể từ tốn hơn đọc từng chương sách quan tâm, từng chương từng chương cho đến hết. Đây là cách đọc có chủ đích, vừa giúp bạn tăng tốc độ đọc sách, vừa giúp bạn hiểu ý chính dễ dàng hơn.
 
 Có một bí mật bạn đã biết chưa? Có rất nhiều sách có thể tóm lại theo tỉ lệ 1/15. Nghĩa là nếu sách dày 300 trang thì ý tưởng chính có thể chỉ vừa gọn chưa cần đến 20 trang đâu. Các dịch vụ tóm tắt sách đang ăn nên làm ra vẫn có một lực lượng khách hàng trung thành kha khá đấy. Bạn không cần phải đọc hết cho thật kĩ ngay lần đọc đầu tiên. Hãy dành việc đó cho việc đọc sâu và đọc lại khi bạn rất cần phải đào bới thêm nữa về cuốn sách.
 
-Sáu: Đọc liên văn bản đồng chủ đề
+#### Sáu: Đọc liên văn bản đồng chủ đề
 
 Khi bạn đã quen với các miếng võ bên trên rồi, có thể tiến thêm một bước nữa. Hãy đọc sách theo chủ đề. Nếu đọc “Lean Startup”, có thể đặt cùng “Running Lean”, và “Startup Owner’s Handbook”, “Business Model Generation”. Chụp X-Quang tất cả bọn chúng, rồi tiến hành đọc liên văn bản.
 
@@ -113,7 +112,7 @@ Khi đọc đến một chủ điểm chính, ví dụ: “Business Canvas”, c
 
 Đây chính là cách mà tôi dùng để “xử gọn” 5 cuốn trong một tuần, khi cần nhiều thông tin để làm việc. Rất tự nhiên mà không mất sức.
 
-Bảy: Đọc có kế hoạch
+#### Bảy: Đọc có kế hoạch
 
 Bạn thấy đấy, để thực hiện được việc đọc “liên văn bản”, cần phải có kế hoạch từ trước. Bạn làm việc gì cũng cần kế hoạch mới mong hiệu quả, tại sao lại không lập kế hoạch cho việc đọc?
 
@@ -123,9 +122,9 @@ Khi đã có mục đích đọc sách rõ ràng, thì việc lập kế hoạch
 
 Đến đây mới xong được chữ “lượng” trong việc đọc, một điều mong mỏi của rất nhiều người đọc sách. Rõ ràng là để có kĩ năng đọc được nhiều, bạn cũng cần phải kiên trì luyện tập một chút. Không có bữa trưa nào miễn phí cả.
 
-Còn sau đây chúng ta bàn thêm một chút về chữ “chất”.
+```Còn sau đây chúng ta bàn thêm một chút về chữ “chất”.```
 
-Câu hỏi hai: Làm sao để đọc thật sâu?
+### Câu hỏi hai: Làm sao để đọc thật sâu?
 Để đọc được thật sâu, thì phải đọc lại!
 
 Đơn giản phải không? Hehe.
