@@ -1,9 +1,11 @@
 ## Bí kíp đọc sách cho người siêu bận
-Bài này dành cho những người bận rộn (ví dụ chỉ có ít hơn 15 phút dành cho đọc sách mỗi ngày) không có đủ thời gian để đọc một cuốn sách dạy cách đọc sách. Nếu bạn đã rất thỏa mãn với cách đọc sách của mình rồi thì có lẽ cũng không cần đọc bài này :-)
+Bài này dành cho những người bận rộn (ví dụ chỉ có ít hơn 15 phút dành cho đọc sách mỗi ngày) không có đủ thời gian để đọc một cuốn sách dạy cách đọc sách. Nếu bạn đã rất thỏa mãn với cách đọc sách của mình rồi thì có lẽ cũng không cần đọc bài này.
 
 
-Ghi chú quan trọng: Bài này có khả năng là hay vì có nhiều người share, nhưng không phải là bài hướng dẫn đọc nhanh (mặc dù có chỗ hướng dẫn bạn tăng tốc), mà là về đọc thông minh, hay nói cách khác là đọc có hệ thống.
-Ghi chú khác: Bài này có tựa đề gốc là “Bí kíp đọc sách cho kẻ thế mà đần” đăng lần đầu trên Facebook khoảng gần 3 năm trước. Nay tôi sửa lại chút đỉnh nhưng vẫn giữ lại phong cách “thế mà đần” (For Dummies) để hướng tới sự đơn giản và vui vẻ.
+#### Ghi chú quan trọng:
+Bài này có khả năng là hay vì có nhiều người share, nhưng không phải là bài hướng dẫn đọc nhanh (mặc dù có sách hướng dẫn bạn tăng tốc), mà là về đọc thông minh, hay nói cách khác là đọc có hệ thống và bàn bản.
+#### Ghi chú khác:
+Bài này có tựa đề gốc là “Bí kíp đọc sách cho kẻ thế mà đần” đăng lần đầu trên Facebook khoảng gần 3 năm trước. Nay tôi sửa lại chút đỉnh nhưng vẫn giữ lại phong cách “thế mà đần” (For Dummies) để hướng tới sự đơn giản và vui vẻ.
 
 1. “Tớ vừa đọc XONG một cuốn sách”
 Câu này có thể mang nhiều hàm nghĩa khác nhau. Có thể là “Tôi vừa lướt qua cái mục lục chi tiết của cuốn sách”, hoặc “Tôi vừa đọc từ đầu đến cuối cuốn sách”, hoặc “Tôi vừa đọc lần thứ 10 cuốn sách này”. Tất cả đều là “đọc xong một cuốn sách”. Chẳng có gì sai khi nói câu đó cả.
