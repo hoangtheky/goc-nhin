@@ -1,6 +1,7 @@
 ## Bí kíp đọc sách cho người siêu bận
+```
 Bài này dành cho những người bận rộn (ví dụ chỉ có ít hơn 15 phút dành cho đọc sách mỗi ngày) không có đủ thời gian để đọc một cuốn sách dạy cách đọc sách. Nếu bạn đã rất thỏa mãn với cách đọc sách của mình rồi thì có lẽ cũng không cần đọc bài này.
-
+```
 
 #### Ghi chú quan trọng:
 Bài này có khả năng là hay vì có nhiều người share, nhưng không phải là bài hướng dẫn đọc nhanh (mặc dù có sách hướng dẫn bạn tăng tốc), mà là về đọc thông minh, hay nói cách khác là đọc có hệ thống và bàn bản.
